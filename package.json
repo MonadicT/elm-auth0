@@ -1,0 +1,25 @@
+{
+    "dependencies": {
+        "ace-css": "1.1",
+        "auth0-lock": "^11.7.2",
+        "css-loader": "^1.0.0",
+        "dotenv": "^6.0.0",
+        "elm-webpack-loader": "^4.5.0",
+        "file-loader": "^1.1.11",
+        "font-awesome": "4",
+        "foreman": "^3.0.1",
+        "jwt-decode": "^2.2.0",
+        "style-loader": "^0.21.0",
+        "url-loader": "^1.0.1",
+        "webpack": "^4.16.1",
+        "webpack-cli": "^3.1.0",
+        "webpack-dev-server": "^3.1.4",
+        "yarn": "^1.7.0"
+    },
+    "scripts": {
+        "api": "node api.js",
+        "build": "webpack",
+        "client": "webpack-dev-server --port 3000",
+        "start": "nf start"
+    }
+}

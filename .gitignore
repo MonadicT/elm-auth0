@@ -1,0 +1,5 @@
+*.*~
+*.lock
+*.tex
+node_modules/
+elm-stuff/
