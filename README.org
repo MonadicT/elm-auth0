@@ -1,6 +1,6 @@
 #+OPTIONS: toc:nil
 
-This is the repo for ELm-Auth0 tutorial published on Meidum. The
+This is the repo for Elm-Auth0 tutorial published on Meidum. The
 following steps should get the code running in short-order.
 
 #+BEGIN_SRC shell
